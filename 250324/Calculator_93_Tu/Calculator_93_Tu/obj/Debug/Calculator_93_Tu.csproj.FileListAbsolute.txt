@@ -1,0 +1,10 @@
+D:\demoKTPM_93_Tu\250324\Calculator_93_Tu\Calculator_93_Tu\bin\Debug\Calculator_93_Tu.exe.config
+D:\demoKTPM_93_Tu\250324\Calculator_93_Tu\Calculator_93_Tu\bin\Debug\Calculator_93_Tu.exe
+D:\demoKTPM_93_Tu\250324\Calculator_93_Tu\Calculator_93_Tu\bin\Debug\Calculator_93_Tu.pdb
+D:\demoKTPM_93_Tu\250324\Calculator_93_Tu\Calculator_93_Tu\obj\Debug\Calculator_93_Tu.csproj.AssemblyReference.cache
+D:\demoKTPM_93_Tu\250324\Calculator_93_Tu\Calculator_93_Tu\obj\Debug\Calculator_93_Tu.Form1.resources
+D:\demoKTPM_93_Tu\250324\Calculator_93_Tu\Calculator_93_Tu\obj\Debug\Calculator_93_Tu.Properties.Resources.resources
+D:\demoKTPM_93_Tu\250324\Calculator_93_Tu\Calculator_93_Tu\obj\Debug\Calculator_93_Tu.csproj.GenerateResource.cache
+D:\demoKTPM_93_Tu\250324\Calculator_93_Tu\Calculator_93_Tu\obj\Debug\Calculator_93_Tu.csproj.CoreCompileInputs.cache
+D:\demoKTPM_93_Tu\250324\Calculator_93_Tu\Calculator_93_Tu\obj\Debug\Calculator_93_Tu.exe
+D:\demoKTPM_93_Tu\250324\Calculator_93_Tu\Calculator_93_Tu\obj\Debug\Calculator_93_Tu.pdb
