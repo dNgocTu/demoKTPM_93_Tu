@@ -1,0 +1,15 @@
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\bin\Debug\selenium-manager\linux\selenium-manager
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\bin\Debug\selenium-manager\macos\selenium-manager
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\bin\Debug\SeleniumWebDriver_93_Tu.exe.config
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\bin\Debug\SeleniumWebDriver_93_Tu.exe
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\bin\Debug\SeleniumWebDriver_93_Tu.pdb
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\bin\Debug\WebDriver.dll
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\obj\Debug\SeleniumWebDriver_93_Tu.csproj.AssemblyReference.cache
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\obj\Debug\SeleniumWebDriver_93_Tu.Form1.resources
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\obj\Debug\SeleniumWebDriver_93_Tu.Properties.Resources.resources
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\obj\Debug\SeleniumWebDriver_93_Tu.csproj.GenerateResource.cache
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\obj\Debug\SeleniumWebDriver_93_Tu.csproj.CoreCompileInputs.cache
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\obj\Debug\SeleniumWebDriver_93_Tu.csproj.CopyComplete
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\obj\Debug\SeleniumWebDriver_93_Tu.exe
+D:\demoKTPM_93_Tu\080424\SeleniumWebDriver_93_Tu\SeleniumWebDriver_93_Tu\obj\Debug\SeleniumWebDriver_93_Tu.pdb

@@ -1,0 +1,42 @@
+{
+  "id": "8c0d95b3-8a3b-49ae-9d9b-61227956edff",
+  "version": "2.0",
+  "name": "93_Tu_03",
+  "url": "https://vnexpress.net/",
+  "tests": [{
+    "id": "4b7788d5-8d3c-449d-a722-8d5fcb9ee038",
+    "name": "93_Tu_03",
+    "commands": [{
+      "id": "f58b3915-aba4-40b1-acb1-e796249845aa",
+      "comment": "",
+      "command": "open",
+      "target": "https://www.google.com/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8789a216-e306-48b9-97aa-42028d352ea5",
+      "comment": "",
+      "command": "sendKeys",
+      "target": "id=APjFqb",
+      "targets": [],
+      "value": "Tin tuc"
+    }, {
+      "id": "5745b32f-8d79-43ff-afa3-aa85a0d013bb",
+      "comment": "",
+      "command": "click",
+      "target": "name=btnK",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "e29f7e3f-8f62-4a7a-904c-2e3c28d7dff3",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["4b7788d5-8d3c-449d-a722-8d5fcb9ee038"]
+  }],
+  "urls": ["https://vnexpress.net/"],
+  "plugins": []
+}
