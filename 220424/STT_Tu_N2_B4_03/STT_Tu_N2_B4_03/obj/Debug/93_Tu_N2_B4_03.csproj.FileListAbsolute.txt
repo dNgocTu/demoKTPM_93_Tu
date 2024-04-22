@@ -1,0 +1,15 @@
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\bin\Debug\selenium-manager\linux\selenium-manager
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\bin\Debug\selenium-manager\macos\selenium-manager
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\bin\Debug\STT_Tu_N2_B4_03.exe.config
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\bin\Debug\STT_Tu_N2_B4_03.exe
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\bin\Debug\STT_Tu_N2_B4_03.pdb
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\bin\Debug\WebDriver.dll
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\obj\Debug\93_Tu_N2_B4_03.csproj.AssemblyReference.cache
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\obj\Debug\STT_Tu_N2_B4_03.form_93_Tu.resources
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\obj\Debug\STT_Tu_N2_B4_03.Properties.Resources.resources
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\obj\Debug\93_Tu_N2_B4_03.csproj.GenerateResource.cache
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\obj\Debug\93_Tu_N2_B4_03.csproj.CoreCompileInputs.cache
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\obj\Debug\93_Tu_N2_B4_03.csproj.CopyComplete
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\obj\Debug\STT_Tu_N2_B4_03.exe
+D:\demoKTPM_93_Tu\220424\STT_Tu_N2_B4_03\STT_Tu_N2_B4_03\obj\Debug\STT_Tu_N2_B4_03.pdb
